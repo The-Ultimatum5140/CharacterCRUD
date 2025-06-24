@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Create Character</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gradient-to-br from-zinc-900 to-zinc-800 min-h-screen flex flex-col items-center justify-center px-4">
+  <div class="w-full max-w-2xl">
+    <div class="mb-6 text-right">
+      <a href="/read" class="text-blue-400 hover:underline text-lg">📜 View All Characters</a>
+    </div>
+
+    <h1 class="text-4xl font-bold text-center text-white mb-6">Create a Character</h1>
+
+    <div class="bg-zinc-800 rounded-xl shadow-lg p-8">
+      <form class="space-y-5" action="/create" method="post">
+        <input type="text" name="name" placeholder="Enter Name" class="w-full px-5 py-3 bg-zinc-900 border border-zinc-600 text-white rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
+
+        <input type="email" name="email" placeholder="Enter Email" class="w-full px-5 py-3 bg-zinc-900 border border-zinc-600 text-white rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
+
+        <input type="text" name="url" placeholder="Enter Image URL" class="w-full px-5 py-3 bg-zinc-900 border border-zinc-600 text-white rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500">
+
+        <button type="submit" class="w-full bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 rounded-lg transition duration-200">➕ Create Character</button>
+      </form>
+    </div>
+  </div>
+</body>
+</html>
