@@ -52,5 +52,3 @@ Made by Deepu
 🔗 LinkedIn:
 📸 Screenshots
 
-![Screenshot 2025-06-24 115804](https://github.com/user-attachments/assets/5cf16c62-f6ca-4392-897d-8f7dd16a8150)
-![Screenshot 2025-06-24 115834](https://github.com/user-attachments/assets/fd952c72-3535-4408-80fc-147547c3e381)
