@@ -51,4 +51,5 @@ Made by Deepu
 📧 deepukusaura@gmail.com
 🔗 LinkedIn:
 📸 Screenshots
-
+![Home Page} screenshots/Screenshot 2025-06-24 115834.png
+![Character Section] screenshots/Screenshot 2025-06-24 115834.png
